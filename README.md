@@ -1,8 +1,6 @@
 # Hi, I'm Vinicius Araujo
 
-Software developer at [Milenio Capital](https://milenio.capital), a Brazilian asset manager focused on credit funds (FIDCs). I build the systems that automate credit operations end to end: data pipelines over fund portfolios, declarative parsers for credit documents, validation rules that check every assignment and settlement, and the web apps the operations team works in.
-
-Computer Science graduate from PUC-Rio (2026). I like small, well-shaped tools, typed data, and interfaces that get out of the way.
+Software developer from Rio de Janeiro, Computer Science graduate from PUC-Rio (2026). I build backend services, data pipelines and web apps, and I like small, well-shaped tools, typed data, and interfaces that get out of the way.
 
 ## Featured projects
 
