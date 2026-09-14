@@ -1,6 +1,6 @@
 # Hi, I'm Vinicius Araujo
 
-Software developer from Rio de Janeiro, Computer Science graduate from PUC-Rio (2026). I build backend services, data pipelines and web apps, and I like small, well-shaped tools, typed data, and interfaces that get out of the way.
+Software developer from Rio de Janeiro, Computer Science graduate from PUC-Rio. This is where my personal projects live.
 
 ## Featured projects
 
